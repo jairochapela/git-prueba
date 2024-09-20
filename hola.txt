@@ -2,6 +2,9 @@
 
 Hola a todos. Este archivo contiene un texto de prueba.
 
-En un lugar de la Mancha, blablabla...
+Segunda vez que toco este archivo para introducir
+algunos cambios.
 
+Érase una vez un archivo de texto que contenía algunos
+comentarios sin mayor importancia.
 
